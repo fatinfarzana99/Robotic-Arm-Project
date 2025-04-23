@@ -1,0 +1,6 @@
+../Core/Src/sd_card.c:23:6:myprintf	16	static
+../Core/Src/sd_card.c:35:6:sd_mount	8	static
+../Core/Src/sd_card.c:53:6:sd_get_free	8	static
+../Core/Src/sd_card.c:74:6:sd_open_file	16	static
+../Core/Src/sd_card.c:106:6:sd_write_file	64	static
+../Core/Src/sd_card.c:141:6:sd_de_mount	8	static

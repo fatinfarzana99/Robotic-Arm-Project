@@ -1,0 +1,5 @@
+../Core/Src/command.c:68:6:CommandInit	32	static
+../Core/Src/command.c:149:5:CommandRxExe	48	static
+../Core/Src/command.c:351:6:CommandSendToHost	32	static
+../Core/Src/command.c:371:13:_UART_TxCpltCallback	16	static
+../Core/Src/command.c:378:13:_UART_RxCpltCallback	16	static

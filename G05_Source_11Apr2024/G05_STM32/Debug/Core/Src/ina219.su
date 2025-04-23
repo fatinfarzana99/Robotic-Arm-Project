@@ -1,0 +1,5 @@
+../Core/Src/ina219.c:67:6:INA219_Init	24	static
+../Core/Src/ina219.c:99:9:INA219_shunt_voltage	32	static
+../Core/Src/ina219.c:130:9:INA219_bus_voltage	32	static
+../Core/Src/ina219.c:165:9:INA219_current	32	static
+../Core/Src/ina219.c:195:9:INA219_power	32	static

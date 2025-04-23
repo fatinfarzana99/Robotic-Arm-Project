@@ -1,0 +1,10 @@
+../Core/Src/VL53L0X_DistanceSensor.c:49:5:VL53L0X_DetectSensors	40	static
+../Core/Src/VL53L0X_DistanceSensor.c:142:15:VL53L0X_SetupSingleShot	48	static
+../Core/Src/VL53L0X_DistanceSensor.c:271:15:VL53L0X_PerformSingleRanging	24	static
+../Core/Src/VL53L0X_DistanceSensor.c:304:15:VL53L0X_StartMeasurementWaitExtInt	32	static
+../Core/Src/VL53L0X_DistanceSensor.c:335:6:VL53L0X_InitializeContinuousRanging	32	static
+../Core/Src/VL53L0X_DistanceSensor.c:357:15:VL53L0X_SetUpInterrupt	32	static
+../Core/Src/VL53L0X_DistanceSensor.c:387:15:VL53L0X_InterruptHandler	24	static
+../Core/Src/VL53L0X_DistanceSensor.c:421:6:VL53L0X_StopContinuousRanging	24	static
+../Core/Src/VL53L0X_DistanceSensor.c:434:15:VL53L0X_WaitStopCompleted	32	static
+../Core/Src/VL53L0X_DistanceSensor.c:466:6:VL53L0X_Sensor_SetNewRange	24	static
