@@ -1,0 +1,11 @@
+../Drivers/BNO085_SPI/shtp.c:88:13:shtp_init	16	static
+../Drivers/BNO085_SPI/shtp.c:99:16:getInstance	16	static
+../Drivers/BNO085_SPI/shtp.c:113:24:min_u16	16	static
+../Drivers/BNO085_SPI/shtp.c:124:12:txProcess	48	static
+../Drivers/BNO085_SPI/shtp.c:179:13:rxAssemble	40	static
+../Drivers/BNO085_SPI/shtp.c:299:7:shtp_open	24	static
+../Drivers/BNO085_SPI/shtp.c:336:6:shtp_close	24	static
+../Drivers/BNO085_SPI/shtp.c:348:6:shtp_setEventCallback	32	static
+../Drivers/BNO085_SPI/shtp.c:358:5:shtp_listenChan	32	static
+../Drivers/BNO085_SPI/shtp.c:376:5:shtp_send	32	static
+../Drivers/BNO085_SPI/shtp.c:395:6:shtp_service	40	static
