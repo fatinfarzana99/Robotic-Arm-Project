@@ -1,0 +1,469 @@
+C:\STM32CubeIDE\ECE225_CSharp_01_05Mar2021\Robot\bin\Debug\Robot.exe.config
+C:\STM32CubeIDE\ECE225_CSharp_01_05Mar2021\Robot\bin\Debug\Robot.exe
+C:\STM32CubeIDE\ECE225_CSharp_01_05Mar2021\Robot\bin\Debug\Robot.pdb
+C:\STM32CubeIDE\ECE225_CSharp_01_05Mar2021\Robot\bin\Debug\AForge.Controls.dll
+C:\STM32CubeIDE\ECE225_CSharp_01_05Mar2021\Robot\bin\Debug\AForge.dll
+C:\STM32CubeIDE\ECE225_CSharp_01_05Mar2021\Robot\bin\Debug\AForge.Genetic.dll
+C:\STM32CubeIDE\ECE225_CSharp_01_05Mar2021\Robot\bin\Debug\AForge.Imaging.dll
+C:\STM32CubeIDE\ECE225_CSharp_01_05Mar2021\Robot\bin\Debug\AForge.Imaging.Formats.dll
+C:\STM32CubeIDE\ECE225_CSharp_01_05Mar2021\Robot\bin\Debug\AForge.Math.dll
+C:\STM32CubeIDE\ECE225_CSharp_01_05Mar2021\Robot\bin\Debug\AForge.Neuro.dll
+C:\STM32CubeIDE\ECE225_CSharp_01_05Mar2021\Robot\bin\Debug\AForge.Video.DirectShow.dll
+C:\STM32CubeIDE\ECE225_CSharp_01_05Mar2021\Robot\bin\Debug\AForge.Video.dll
+C:\STM32CubeIDE\ECE225_CSharp_01_05Mar2021\Robot\bin\Debug\AForge.Vision.dll
+C:\STM32CubeIDE\ECE225_CSharp_01_05Mar2021\Robot\bin\Debug\dshow.dll
+C:\STM32CubeIDE\ECE225_CSharp_01_05Mar2021\Robot\bin\Debug\MatrixShow.dll
+C:\STM32CubeIDE\ECE225_CSharp_01_05Mar2021\Robot\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\STM32CubeIDE\ECE225_CSharp_01_05Mar2021\Robot\bin\Debug\SignalStrengthMeter.dll
+C:\STM32CubeIDE\ECE225_CSharp_01_05Mar2021\Robot\bin\Debug\Tiger.Video.VFW.dll
+C:\STM32CubeIDE\ECE225_CSharp_01_05Mar2021\Robot\bin\Debug\AForge.xml
+C:\STM32CubeIDE\ECE225_CSharp_01_05Mar2021\Robot\bin\Debug\AForge.Controls.xml
+C:\STM32CubeIDE\ECE225_CSharp_01_05Mar2021\Robot\bin\Debug\AForge.Genetic.xml
+C:\STM32CubeIDE\ECE225_CSharp_01_05Mar2021\Robot\bin\Debug\AForge.Imaging.xml
+C:\STM32CubeIDE\ECE225_CSharp_01_05Mar2021\Robot\bin\Debug\AForge.Imaging.Formats.xml
+C:\STM32CubeIDE\ECE225_CSharp_01_05Mar2021\Robot\bin\Debug\AForge.Math.xml
+C:\STM32CubeIDE\ECE225_CSharp_01_05Mar2021\Robot\bin\Debug\AForge.Neuro.xml
+C:\STM32CubeIDE\ECE225_CSharp_01_05Mar2021\Robot\bin\Debug\AForge.Video.xml
+C:\STM32CubeIDE\ECE225_CSharp_01_05Mar2021\Robot\bin\Debug\AForge.Video.DirectShow.xml
+C:\STM32CubeIDE\ECE225_CSharp_01_05Mar2021\Robot\bin\Debug\AForge.Vision.xml
+C:\STM32CubeIDE\ECE225_CSharp_01_05Mar2021\Robot\obj\Debug\Robot.csprojAssemblyReference.cache
+C:\STM32CubeIDE\ECE225_CSharp_01_05Mar2021\Robot\obj\Debug\motion.CameraWindow.resources
+C:\STM32CubeIDE\ECE225_CSharp_01_05Mar2021\Robot\obj\Debug\Robot.MainForm.resources
+C:\STM32CubeIDE\ECE225_CSharp_01_05Mar2021\Robot\obj\Debug\Robot.Properties.Resources.resources
+C:\STM32CubeIDE\ECE225_CSharp_01_05Mar2021\Robot\obj\Debug\Robot.csproj.GenerateResource.cache
+C:\STM32CubeIDE\ECE225_CSharp_01_05Mar2021\Robot\obj\Debug\Robot.csproj.CoreCompileInputs.cache
+C:\STM32CubeIDE\ECE225_CSharp_01_05Mar2021\Robot\obj\Debug\Robot.csproj.CopyComplete
+C:\STM32CubeIDE\ECE225_CSharp_01_05Mar2021\Robot\obj\Debug\Robot.exe
+C:\STM32CubeIDE\ECE225_CSharp_01_05Mar2021\Robot\obj\Debug\Robot.pdb
+D:\Jasper\SIT\Yr 4 Tri 2\ECE225 Robotics\Project\ECE225_CSharp_01_11Apr2021\Robot\bin\Debug\Robot.exe.config
+D:\Jasper\SIT\Yr 4 Tri 2\ECE225 Robotics\Project\ECE225_CSharp_01_11Apr2021\Robot\bin\Debug\Robot.exe
+D:\Jasper\SIT\Yr 4 Tri 2\ECE225 Robotics\Project\ECE225_CSharp_01_11Apr2021\Robot\bin\Debug\Robot.pdb
+D:\Jasper\SIT\Yr 4 Tri 2\ECE225 Robotics\Project\ECE225_CSharp_01_11Apr2021\Robot\bin\Debug\AForge.Controls.dll
+D:\Jasper\SIT\Yr 4 Tri 2\ECE225 Robotics\Project\ECE225_CSharp_01_11Apr2021\Robot\bin\Debug\AForge.dll
+D:\Jasper\SIT\Yr 4 Tri 2\ECE225 Robotics\Project\ECE225_CSharp_01_11Apr2021\Robot\bin\Debug\AForge.Genetic.dll
+D:\Jasper\SIT\Yr 4 Tri 2\ECE225 Robotics\Project\ECE225_CSharp_01_11Apr2021\Robot\bin\Debug\AForge.Imaging.dll
+D:\Jasper\SIT\Yr 4 Tri 2\ECE225 Robotics\Project\ECE225_CSharp_01_11Apr2021\Robot\bin\Debug\AForge.Imaging.Formats.dll
+D:\Jasper\SIT\Yr 4 Tri 2\ECE225 Robotics\Project\ECE225_CSharp_01_11Apr2021\Robot\bin\Debug\AForge.Math.dll
+D:\Jasper\SIT\Yr 4 Tri 2\ECE225 Robotics\Project\ECE225_CSharp_01_11Apr2021\Robot\bin\Debug\AForge.Neuro.dll
+D:\Jasper\SIT\Yr 4 Tri 2\ECE225 Robotics\Project\ECE225_CSharp_01_11Apr2021\Robot\bin\Debug\AForge.Video.DirectShow.dll
+D:\Jasper\SIT\Yr 4 Tri 2\ECE225 Robotics\Project\ECE225_CSharp_01_11Apr2021\Robot\bin\Debug\AForge.Video.dll
+D:\Jasper\SIT\Yr 4 Tri 2\ECE225 Robotics\Project\ECE225_CSharp_01_11Apr2021\Robot\bin\Debug\AForge.Vision.dll
+D:\Jasper\SIT\Yr 4 Tri 2\ECE225 Robotics\Project\ECE225_CSharp_01_11Apr2021\Robot\bin\Debug\dshow.dll
+D:\Jasper\SIT\Yr 4 Tri 2\ECE225 Robotics\Project\ECE225_CSharp_01_11Apr2021\Robot\bin\Debug\MatrixShow.dll
+D:\Jasper\SIT\Yr 4 Tri 2\ECE225 Robotics\Project\ECE225_CSharp_01_11Apr2021\Robot\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+D:\Jasper\SIT\Yr 4 Tri 2\ECE225 Robotics\Project\ECE225_CSharp_01_11Apr2021\Robot\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Jasper\SIT\Yr 4 Tri 2\ECE225 Robotics\Project\ECE225_CSharp_01_11Apr2021\Robot\bin\Debug\SignalStrengthMeter.dll
+D:\Jasper\SIT\Yr 4 Tri 2\ECE225 Robotics\Project\ECE225_CSharp_01_11Apr2021\Robot\bin\Debug\Tiger.Video.VFW.dll
+D:\Jasper\SIT\Yr 4 Tri 2\ECE225 Robotics\Project\ECE225_CSharp_01_11Apr2021\Robot\bin\Debug\AForge.xml
+D:\Jasper\SIT\Yr 4 Tri 2\ECE225 Robotics\Project\ECE225_CSharp_01_11Apr2021\Robot\bin\Debug\AForge.Controls.xml
+D:\Jasper\SIT\Yr 4 Tri 2\ECE225 Robotics\Project\ECE225_CSharp_01_11Apr2021\Robot\bin\Debug\AForge.Genetic.xml
+D:\Jasper\SIT\Yr 4 Tri 2\ECE225 Robotics\Project\ECE225_CSharp_01_11Apr2021\Robot\bin\Debug\AForge.Imaging.xml
+D:\Jasper\SIT\Yr 4 Tri 2\ECE225 Robotics\Project\ECE225_CSharp_01_11Apr2021\Robot\bin\Debug\AForge.Imaging.Formats.xml
+D:\Jasper\SIT\Yr 4 Tri 2\ECE225 Robotics\Project\ECE225_CSharp_01_11Apr2021\Robot\bin\Debug\AForge.Math.xml
+D:\Jasper\SIT\Yr 4 Tri 2\ECE225 Robotics\Project\ECE225_CSharp_01_11Apr2021\Robot\bin\Debug\AForge.Neuro.xml
+D:\Jasper\SIT\Yr 4 Tri 2\ECE225 Robotics\Project\ECE225_CSharp_01_11Apr2021\Robot\bin\Debug\AForge.Video.xml
+D:\Jasper\SIT\Yr 4 Tri 2\ECE225 Robotics\Project\ECE225_CSharp_01_11Apr2021\Robot\bin\Debug\AForge.Video.DirectShow.xml
+D:\Jasper\SIT\Yr 4 Tri 2\ECE225 Robotics\Project\ECE225_CSharp_01_11Apr2021\Robot\bin\Debug\AForge.Vision.xml
+D:\Jasper\SIT\Yr 4 Tri 2\ECE225 Robotics\Project\ECE225_CSharp_01_11Apr2021\Robot\bin\Debug\cs\Microsoft.QualityTools.Testing.Fakes.resources.dll
+D:\Jasper\SIT\Yr 4 Tri 2\ECE225 Robotics\Project\ECE225_CSharp_01_11Apr2021\Robot\bin\Debug\de\Microsoft.QualityTools.Testing.Fakes.resources.dll
+D:\Jasper\SIT\Yr 4 Tri 2\ECE225 Robotics\Project\ECE225_CSharp_01_11Apr2021\Robot\bin\Debug\es\Microsoft.QualityTools.Testing.Fakes.resources.dll
+D:\Jasper\SIT\Yr 4 Tri 2\ECE225 Robotics\Project\ECE225_CSharp_01_11Apr2021\Robot\bin\Debug\fr\Microsoft.QualityTools.Testing.Fakes.resources.dll
+D:\Jasper\SIT\Yr 4 Tri 2\ECE225 Robotics\Project\ECE225_CSharp_01_11Apr2021\Robot\bin\Debug\it\Microsoft.QualityTools.Testing.Fakes.resources.dll
+D:\Jasper\SIT\Yr 4 Tri 2\ECE225 Robotics\Project\ECE225_CSharp_01_11Apr2021\Robot\bin\Debug\ja\Microsoft.QualityTools.Testing.Fakes.resources.dll
+D:\Jasper\SIT\Yr 4 Tri 2\ECE225 Robotics\Project\ECE225_CSharp_01_11Apr2021\Robot\bin\Debug\ko\Microsoft.QualityTools.Testing.Fakes.resources.dll
+D:\Jasper\SIT\Yr 4 Tri 2\ECE225 Robotics\Project\ECE225_CSharp_01_11Apr2021\Robot\bin\Debug\pl\Microsoft.QualityTools.Testing.Fakes.resources.dll
+D:\Jasper\SIT\Yr 4 Tri 2\ECE225 Robotics\Project\ECE225_CSharp_01_11Apr2021\Robot\bin\Debug\pt-BR\Microsoft.QualityTools.Testing.Fakes.resources.dll
+D:\Jasper\SIT\Yr 4 Tri 2\ECE225 Robotics\Project\ECE225_CSharp_01_11Apr2021\Robot\bin\Debug\ru\Microsoft.QualityTools.Testing.Fakes.resources.dll
+D:\Jasper\SIT\Yr 4 Tri 2\ECE225 Robotics\Project\ECE225_CSharp_01_11Apr2021\Robot\bin\Debug\tr\Microsoft.QualityTools.Testing.Fakes.resources.dll
+D:\Jasper\SIT\Yr 4 Tri 2\ECE225 Robotics\Project\ECE225_CSharp_01_11Apr2021\Robot\bin\Debug\zh-Hans\Microsoft.QualityTools.Testing.Fakes.resources.dll
+D:\Jasper\SIT\Yr 4 Tri 2\ECE225 Robotics\Project\ECE225_CSharp_01_11Apr2021\Robot\bin\Debug\zh-Hant\Microsoft.QualityTools.Testing.Fakes.resources.dll
+D:\Jasper\SIT\Yr 4 Tri 2\ECE225 Robotics\Project\ECE225_CSharp_01_11Apr2021\Robot\obj\Debug\Robot.csprojAssemblyReference.cache
+D:\Jasper\SIT\Yr 4 Tri 2\ECE225 Robotics\Project\ECE225_CSharp_01_11Apr2021\Robot\obj\Debug\motion.CameraWindow.resources
+D:\Jasper\SIT\Yr 4 Tri 2\ECE225 Robotics\Project\ECE225_CSharp_01_11Apr2021\Robot\obj\Debug\Robot.MainForm.resources
+D:\Jasper\SIT\Yr 4 Tri 2\ECE225 Robotics\Project\ECE225_CSharp_01_11Apr2021\Robot\obj\Debug\Robot.Properties.Resources.resources
+D:\Jasper\SIT\Yr 4 Tri 2\ECE225 Robotics\Project\ECE225_CSharp_01_11Apr2021\Robot\obj\Debug\Robot.csproj.GenerateResource.cache
+D:\Jasper\SIT\Yr 4 Tri 2\ECE225 Robotics\Project\ECE225_CSharp_01_11Apr2021\Robot\obj\Debug\Robot.csproj.CoreCompileInputs.cache
+D:\Jasper\SIT\Yr 4 Tri 2\ECE225 Robotics\Project\ECE225_CSharp_01_11Apr2021\Robot\obj\Debug\Robot.csproj.CopyComplete
+D:\Jasper\SIT\Yr 4 Tri 2\ECE225 Robotics\Project\ECE225_CSharp_01_11Apr2021\Robot\obj\Debug\Robot.exe
+D:\Jasper\SIT\Yr 4 Tri 2\ECE225 Robotics\Project\ECE225_CSharp_01_11Apr2021\Robot\obj\Debug\Robot.pdb
+C:\Users\castr\Desktop\ECE225_CSharp_01_11Apr2021\Robot\bin\Debug\Robot.exe.config
+C:\Users\castr\Desktop\ECE225_CSharp_01_11Apr2021\Robot\bin\Debug\Robot.exe
+C:\Users\castr\Desktop\ECE225_CSharp_01_11Apr2021\Robot\bin\Debug\Robot.pdb
+C:\Users\castr\Desktop\ECE225_CSharp_01_11Apr2021\Robot\bin\Debug\AForge.Controls.dll
+C:\Users\castr\Desktop\ECE225_CSharp_01_11Apr2021\Robot\bin\Debug\AForge.dll
+C:\Users\castr\Desktop\ECE225_CSharp_01_11Apr2021\Robot\bin\Debug\AForge.Genetic.dll
+C:\Users\castr\Desktop\ECE225_CSharp_01_11Apr2021\Robot\bin\Debug\AForge.Imaging.dll
+C:\Users\castr\Desktop\ECE225_CSharp_01_11Apr2021\Robot\bin\Debug\AForge.Imaging.Formats.dll
+C:\Users\castr\Desktop\ECE225_CSharp_01_11Apr2021\Robot\bin\Debug\AForge.Math.dll
+C:\Users\castr\Desktop\ECE225_CSharp_01_11Apr2021\Robot\bin\Debug\AForge.Neuro.dll
+C:\Users\castr\Desktop\ECE225_CSharp_01_11Apr2021\Robot\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\castr\Desktop\ECE225_CSharp_01_11Apr2021\Robot\bin\Debug\AForge.Video.dll
+C:\Users\castr\Desktop\ECE225_CSharp_01_11Apr2021\Robot\bin\Debug\AForge.Vision.dll
+C:\Users\castr\Desktop\ECE225_CSharp_01_11Apr2021\Robot\bin\Debug\dshow.dll
+C:\Users\castr\Desktop\ECE225_CSharp_01_11Apr2021\Robot\bin\Debug\MatrixShow.dll
+C:\Users\castr\Desktop\ECE225_CSharp_01_11Apr2021\Robot\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\castr\Desktop\ECE225_CSharp_01_11Apr2021\Robot\bin\Debug\SignalStrengthMeter.dll
+C:\Users\castr\Desktop\ECE225_CSharp_01_11Apr2021\Robot\bin\Debug\Tiger.Video.VFW.dll
+C:\Users\castr\Desktop\ECE225_CSharp_01_11Apr2021\Robot\bin\Debug\AForge.xml
+C:\Users\castr\Desktop\ECE225_CSharp_01_11Apr2021\Robot\bin\Debug\AForge.Controls.xml
+C:\Users\castr\Desktop\ECE225_CSharp_01_11Apr2021\Robot\bin\Debug\AForge.Genetic.xml
+C:\Users\castr\Desktop\ECE225_CSharp_01_11Apr2021\Robot\bin\Debug\AForge.Imaging.xml
+C:\Users\castr\Desktop\ECE225_CSharp_01_11Apr2021\Robot\bin\Debug\AForge.Imaging.Formats.xml
+C:\Users\castr\Desktop\ECE225_CSharp_01_11Apr2021\Robot\bin\Debug\AForge.Math.xml
+C:\Users\castr\Desktop\ECE225_CSharp_01_11Apr2021\Robot\bin\Debug\AForge.Neuro.xml
+C:\Users\castr\Desktop\ECE225_CSharp_01_11Apr2021\Robot\bin\Debug\AForge.Video.xml
+C:\Users\castr\Desktop\ECE225_CSharp_01_11Apr2021\Robot\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\castr\Desktop\ECE225_CSharp_01_11Apr2021\Robot\bin\Debug\AForge.Vision.xml
+C:\Users\castr\Desktop\ECE225_CSharp_01_11Apr2021\Robot\bin\Debug\cs\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\Users\castr\Desktop\ECE225_CSharp_01_11Apr2021\Robot\bin\Debug\de\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\Users\castr\Desktop\ECE225_CSharp_01_11Apr2021\Robot\bin\Debug\es\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\Users\castr\Desktop\ECE225_CSharp_01_11Apr2021\Robot\bin\Debug\fr\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\Users\castr\Desktop\ECE225_CSharp_01_11Apr2021\Robot\bin\Debug\it\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\Users\castr\Desktop\ECE225_CSharp_01_11Apr2021\Robot\bin\Debug\ja\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\Users\castr\Desktop\ECE225_CSharp_01_11Apr2021\Robot\bin\Debug\ko\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\Users\castr\Desktop\ECE225_CSharp_01_11Apr2021\Robot\bin\Debug\pl\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\Users\castr\Desktop\ECE225_CSharp_01_11Apr2021\Robot\bin\Debug\pt-BR\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\Users\castr\Desktop\ECE225_CSharp_01_11Apr2021\Robot\bin\Debug\ru\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\Users\castr\Desktop\ECE225_CSharp_01_11Apr2021\Robot\bin\Debug\tr\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\Users\castr\Desktop\ECE225_CSharp_01_11Apr2021\Robot\bin\Debug\zh-Hans\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\Users\castr\Desktop\ECE225_CSharp_01_11Apr2021\Robot\bin\Debug\zh-Hant\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\Users\castr\Desktop\ECE225_CSharp_01_11Apr2021\Robot\obj\Debug\Robot.csprojAssemblyReference.cache
+C:\Users\castr\Desktop\ECE225_CSharp_01_11Apr2021\Robot\obj\Debug\motion.CameraWindow.resources
+C:\Users\castr\Desktop\ECE225_CSharp_01_11Apr2021\Robot\obj\Debug\Robot.MainForm.resources
+C:\Users\castr\Desktop\ECE225_CSharp_01_11Apr2021\Robot\obj\Debug\Robot.Properties.Resources.resources
+C:\Users\castr\Desktop\ECE225_CSharp_01_11Apr2021\Robot\obj\Debug\Robot.csproj.GenerateResource.cache
+C:\Users\castr\Desktop\ECE225_CSharp_01_11Apr2021\Robot\obj\Debug\Robot.csproj.CoreCompileInputs.cache
+C:\Users\castr\Desktop\ECE225_CSharp_01_11Apr2021\Robot\obj\Debug\Robot.csproj.CopyComplete
+C:\Users\castr\Desktop\ECE225_CSharp_01_11Apr2021\Robot\obj\Debug\Robot.exe
+C:\Users\castr\Desktop\ECE225_CSharp_01_11Apr2021\Robot\obj\Debug\Robot.pdb
+D:\Jasper\SIT\Yr 4 Tri 2\ECE225 Robotics\Project\ECE225_CSharp_01_12Apr2021\Robot\bin\Debug\Robot.exe.config
+D:\Jasper\SIT\Yr 4 Tri 2\ECE225 Robotics\Project\ECE225_CSharp_01_12Apr2021\Robot\bin\Debug\Robot.exe
+D:\Jasper\SIT\Yr 4 Tri 2\ECE225 Robotics\Project\ECE225_CSharp_01_12Apr2021\Robot\bin\Debug\Robot.pdb
+D:\Jasper\SIT\Yr 4 Tri 2\ECE225 Robotics\Project\ECE225_CSharp_01_12Apr2021\Robot\bin\Debug\AForge.Controls.dll
+D:\Jasper\SIT\Yr 4 Tri 2\ECE225 Robotics\Project\ECE225_CSharp_01_12Apr2021\Robot\bin\Debug\AForge.dll
+D:\Jasper\SIT\Yr 4 Tri 2\ECE225 Robotics\Project\ECE225_CSharp_01_12Apr2021\Robot\bin\Debug\AForge.Genetic.dll
+D:\Jasper\SIT\Yr 4 Tri 2\ECE225 Robotics\Project\ECE225_CSharp_01_12Apr2021\Robot\bin\Debug\AForge.Imaging.dll
+D:\Jasper\SIT\Yr 4 Tri 2\ECE225 Robotics\Project\ECE225_CSharp_01_12Apr2021\Robot\bin\Debug\AForge.Imaging.Formats.dll
+D:\Jasper\SIT\Yr 4 Tri 2\ECE225 Robotics\Project\ECE225_CSharp_01_12Apr2021\Robot\bin\Debug\AForge.Math.dll
+D:\Jasper\SIT\Yr 4 Tri 2\ECE225 Robotics\Project\ECE225_CSharp_01_12Apr2021\Robot\bin\Debug\AForge.Neuro.dll
+D:\Jasper\SIT\Yr 4 Tri 2\ECE225 Robotics\Project\ECE225_CSharp_01_12Apr2021\Robot\bin\Debug\AForge.Video.DirectShow.dll
+D:\Jasper\SIT\Yr 4 Tri 2\ECE225 Robotics\Project\ECE225_CSharp_01_12Apr2021\Robot\bin\Debug\AForge.Video.dll
+D:\Jasper\SIT\Yr 4 Tri 2\ECE225 Robotics\Project\ECE225_CSharp_01_12Apr2021\Robot\bin\Debug\AForge.Vision.dll
+D:\Jasper\SIT\Yr 4 Tri 2\ECE225 Robotics\Project\ECE225_CSharp_01_12Apr2021\Robot\bin\Debug\dshow.dll
+D:\Jasper\SIT\Yr 4 Tri 2\ECE225 Robotics\Project\ECE225_CSharp_01_12Apr2021\Robot\bin\Debug\MatrixShow.dll
+D:\Jasper\SIT\Yr 4 Tri 2\ECE225 Robotics\Project\ECE225_CSharp_01_12Apr2021\Robot\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+D:\Jasper\SIT\Yr 4 Tri 2\ECE225 Robotics\Project\ECE225_CSharp_01_12Apr2021\Robot\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Jasper\SIT\Yr 4 Tri 2\ECE225 Robotics\Project\ECE225_CSharp_01_12Apr2021\Robot\bin\Debug\SignalStrengthMeter.dll
+D:\Jasper\SIT\Yr 4 Tri 2\ECE225 Robotics\Project\ECE225_CSharp_01_12Apr2021\Robot\bin\Debug\Tiger.Video.VFW.dll
+D:\Jasper\SIT\Yr 4 Tri 2\ECE225 Robotics\Project\ECE225_CSharp_01_12Apr2021\Robot\bin\Debug\AForge.xml
+D:\Jasper\SIT\Yr 4 Tri 2\ECE225 Robotics\Project\ECE225_CSharp_01_12Apr2021\Robot\bin\Debug\AForge.Controls.xml
+D:\Jasper\SIT\Yr 4 Tri 2\ECE225 Robotics\Project\ECE225_CSharp_01_12Apr2021\Robot\bin\Debug\AForge.Genetic.xml
+D:\Jasper\SIT\Yr 4 Tri 2\ECE225 Robotics\Project\ECE225_CSharp_01_12Apr2021\Robot\bin\Debug\AForge.Imaging.xml
+D:\Jasper\SIT\Yr 4 Tri 2\ECE225 Robotics\Project\ECE225_CSharp_01_12Apr2021\Robot\bin\Debug\AForge.Imaging.Formats.xml
+D:\Jasper\SIT\Yr 4 Tri 2\ECE225 Robotics\Project\ECE225_CSharp_01_12Apr2021\Robot\bin\Debug\AForge.Math.xml
+D:\Jasper\SIT\Yr 4 Tri 2\ECE225 Robotics\Project\ECE225_CSharp_01_12Apr2021\Robot\bin\Debug\AForge.Neuro.xml
+D:\Jasper\SIT\Yr 4 Tri 2\ECE225 Robotics\Project\ECE225_CSharp_01_12Apr2021\Robot\bin\Debug\AForge.Video.xml
+D:\Jasper\SIT\Yr 4 Tri 2\ECE225 Robotics\Project\ECE225_CSharp_01_12Apr2021\Robot\bin\Debug\AForge.Video.DirectShow.xml
+D:\Jasper\SIT\Yr 4 Tri 2\ECE225 Robotics\Project\ECE225_CSharp_01_12Apr2021\Robot\bin\Debug\AForge.Vision.xml
+D:\Jasper\SIT\Yr 4 Tri 2\ECE225 Robotics\Project\ECE225_CSharp_01_12Apr2021\Robot\bin\Debug\cs\Microsoft.QualityTools.Testing.Fakes.resources.dll
+D:\Jasper\SIT\Yr 4 Tri 2\ECE225 Robotics\Project\ECE225_CSharp_01_12Apr2021\Robot\bin\Debug\de\Microsoft.QualityTools.Testing.Fakes.resources.dll
+D:\Jasper\SIT\Yr 4 Tri 2\ECE225 Robotics\Project\ECE225_CSharp_01_12Apr2021\Robot\bin\Debug\es\Microsoft.QualityTools.Testing.Fakes.resources.dll
+D:\Jasper\SIT\Yr 4 Tri 2\ECE225 Robotics\Project\ECE225_CSharp_01_12Apr2021\Robot\bin\Debug\fr\Microsoft.QualityTools.Testing.Fakes.resources.dll
+D:\Jasper\SIT\Yr 4 Tri 2\ECE225 Robotics\Project\ECE225_CSharp_01_12Apr2021\Robot\bin\Debug\it\Microsoft.QualityTools.Testing.Fakes.resources.dll
+D:\Jasper\SIT\Yr 4 Tri 2\ECE225 Robotics\Project\ECE225_CSharp_01_12Apr2021\Robot\bin\Debug\ja\Microsoft.QualityTools.Testing.Fakes.resources.dll
+D:\Jasper\SIT\Yr 4 Tri 2\ECE225 Robotics\Project\ECE225_CSharp_01_12Apr2021\Robot\bin\Debug\ko\Microsoft.QualityTools.Testing.Fakes.resources.dll
+D:\Jasper\SIT\Yr 4 Tri 2\ECE225 Robotics\Project\ECE225_CSharp_01_12Apr2021\Robot\bin\Debug\pl\Microsoft.QualityTools.Testing.Fakes.resources.dll
+D:\Jasper\SIT\Yr 4 Tri 2\ECE225 Robotics\Project\ECE225_CSharp_01_12Apr2021\Robot\bin\Debug\pt-BR\Microsoft.QualityTools.Testing.Fakes.resources.dll
+D:\Jasper\SIT\Yr 4 Tri 2\ECE225 Robotics\Project\ECE225_CSharp_01_12Apr2021\Robot\bin\Debug\ru\Microsoft.QualityTools.Testing.Fakes.resources.dll
+D:\Jasper\SIT\Yr 4 Tri 2\ECE225 Robotics\Project\ECE225_CSharp_01_12Apr2021\Robot\bin\Debug\tr\Microsoft.QualityTools.Testing.Fakes.resources.dll
+D:\Jasper\SIT\Yr 4 Tri 2\ECE225 Robotics\Project\ECE225_CSharp_01_12Apr2021\Robot\bin\Debug\zh-Hans\Microsoft.QualityTools.Testing.Fakes.resources.dll
+D:\Jasper\SIT\Yr 4 Tri 2\ECE225 Robotics\Project\ECE225_CSharp_01_12Apr2021\Robot\bin\Debug\zh-Hant\Microsoft.QualityTools.Testing.Fakes.resources.dll
+D:\Jasper\SIT\Yr 4 Tri 2\ECE225 Robotics\Project\ECE225_CSharp_01_12Apr2021\Robot\obj\Debug\Robot.csprojAssemblyReference.cache
+D:\Jasper\SIT\Yr 4 Tri 2\ECE225 Robotics\Project\ECE225_CSharp_01_12Apr2021\Robot\obj\Debug\motion.CameraWindow.resources
+D:\Jasper\SIT\Yr 4 Tri 2\ECE225 Robotics\Project\ECE225_CSharp_01_12Apr2021\Robot\obj\Debug\Robot.MainForm.resources
+D:\Jasper\SIT\Yr 4 Tri 2\ECE225 Robotics\Project\ECE225_CSharp_01_12Apr2021\Robot\obj\Debug\Robot.Properties.Resources.resources
+D:\Jasper\SIT\Yr 4 Tri 2\ECE225 Robotics\Project\ECE225_CSharp_01_12Apr2021\Robot\obj\Debug\Robot.csproj.GenerateResource.cache
+D:\Jasper\SIT\Yr 4 Tri 2\ECE225 Robotics\Project\ECE225_CSharp_01_12Apr2021\Robot\obj\Debug\Robot.csproj.CoreCompileInputs.cache
+D:\Jasper\SIT\Yr 4 Tri 2\ECE225 Robotics\Project\ECE225_CSharp_01_12Apr2021\Robot\obj\Debug\Robot.csproj.CopyComplete
+D:\Jasper\SIT\Yr 4 Tri 2\ECE225 Robotics\Project\ECE225_CSharp_01_12Apr2021\Robot\obj\Debug\Robot.exe
+D:\Jasper\SIT\Yr 4 Tri 2\ECE225 Robotics\Project\ECE225_CSharp_01_12Apr2021\Robot\obj\Debug\Robot.pdb
+C:\Users\alaga\Downloads\Telegram Desktop\Code_08_JasperShuiXing_18Apr2021\ECE225_CSharp_01_17Apr2021\ECE225_CSharp_01_12Apr2021\Robot\obj\Debug\Robot.csproj.AssemblyReference.cache
+C:\Users\alaga\Downloads\Telegram Desktop\Code_08_JasperShuiXing_18Apr2021\ECE225_CSharp_01_17Apr2021\ECE225_CSharp_01_12Apr2021\Robot\obj\Debug\Robot.csproj.SuggestedBindingRedirects.cache
+C:\Users\alaga\Downloads\Telegram Desktop\Code_08_JasperShuiXing_18Apr2021\ECE225_CSharp_01_17Apr2021\ECE225_CSharp_01_12Apr2021\Robot\obj\Debug\Robot.exe
+C:\Users\alaga\Downloads\Telegram Desktop\Code_08_JasperShuiXing_18Apr2021\ECE225_CSharp_01_17Apr2021\ECE225_CSharp_01_12Apr2021\Robot\obj\Debug\Robot.pdb
+C:\Users\alaga\Downloads\Telegram Desktop\Code_08_JasperShuiXing_18Apr2021\ECE225_CSharp_01_17Apr2021\ECE225_CSharp_01_12Apr2021\Robot\bin\Debug\Robot.exe.config
+C:\Users\alaga\Downloads\Telegram Desktop\Code_08_JasperShuiXing_18Apr2021\ECE225_CSharp_01_17Apr2021\ECE225_CSharp_01_12Apr2021\Robot\bin\Debug\Robot.exe
+C:\Users\alaga\Downloads\Telegram Desktop\Code_08_JasperShuiXing_18Apr2021\ECE225_CSharp_01_17Apr2021\ECE225_CSharp_01_12Apr2021\Robot\bin\Debug\Robot.pdb
+C:\Users\alaga\Downloads\Telegram Desktop\Code_08_JasperShuiXing_18Apr2021\ECE225_CSharp_01_17Apr2021\ECE225_CSharp_01_12Apr2021\Robot\bin\Debug\AForge.Controls.dll
+C:\Users\alaga\Downloads\Telegram Desktop\Code_08_JasperShuiXing_18Apr2021\ECE225_CSharp_01_17Apr2021\ECE225_CSharp_01_12Apr2021\Robot\bin\Debug\AForge.dll
+C:\Users\alaga\Downloads\Telegram Desktop\Code_08_JasperShuiXing_18Apr2021\ECE225_CSharp_01_17Apr2021\ECE225_CSharp_01_12Apr2021\Robot\bin\Debug\AForge.Genetic.dll
+C:\Users\alaga\Downloads\Telegram Desktop\Code_08_JasperShuiXing_18Apr2021\ECE225_CSharp_01_17Apr2021\ECE225_CSharp_01_12Apr2021\Robot\bin\Debug\AForge.Imaging.dll
+C:\Users\alaga\Downloads\Telegram Desktop\Code_08_JasperShuiXing_18Apr2021\ECE225_CSharp_01_17Apr2021\ECE225_CSharp_01_12Apr2021\Robot\bin\Debug\AForge.Imaging.Formats.dll
+C:\Users\alaga\Downloads\Telegram Desktop\Code_08_JasperShuiXing_18Apr2021\ECE225_CSharp_01_17Apr2021\ECE225_CSharp_01_12Apr2021\Robot\bin\Debug\AForge.Math.dll
+C:\Users\alaga\Downloads\Telegram Desktop\Code_08_JasperShuiXing_18Apr2021\ECE225_CSharp_01_17Apr2021\ECE225_CSharp_01_12Apr2021\Robot\bin\Debug\AForge.Neuro.dll
+C:\Users\alaga\Downloads\Telegram Desktop\Code_08_JasperShuiXing_18Apr2021\ECE225_CSharp_01_17Apr2021\ECE225_CSharp_01_12Apr2021\Robot\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\alaga\Downloads\Telegram Desktop\Code_08_JasperShuiXing_18Apr2021\ECE225_CSharp_01_17Apr2021\ECE225_CSharp_01_12Apr2021\Robot\bin\Debug\AForge.Video.dll
+C:\Users\alaga\Downloads\Telegram Desktop\Code_08_JasperShuiXing_18Apr2021\ECE225_CSharp_01_17Apr2021\ECE225_CSharp_01_12Apr2021\Robot\bin\Debug\AForge.Vision.dll
+C:\Users\alaga\Downloads\Telegram Desktop\Code_08_JasperShuiXing_18Apr2021\ECE225_CSharp_01_17Apr2021\ECE225_CSharp_01_12Apr2021\Robot\bin\Debug\dshow.dll
+C:\Users\alaga\Downloads\Telegram Desktop\Code_08_JasperShuiXing_18Apr2021\ECE225_CSharp_01_17Apr2021\ECE225_CSharp_01_12Apr2021\Robot\bin\Debug\MatrixShow.dll
+C:\Users\alaga\Downloads\Telegram Desktop\Code_08_JasperShuiXing_18Apr2021\ECE225_CSharp_01_17Apr2021\ECE225_CSharp_01_12Apr2021\Robot\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\alaga\Downloads\Telegram Desktop\Code_08_JasperShuiXing_18Apr2021\ECE225_CSharp_01_17Apr2021\ECE225_CSharp_01_12Apr2021\Robot\bin\Debug\SignalStrengthMeter.dll
+C:\Users\alaga\Downloads\Telegram Desktop\Code_08_JasperShuiXing_18Apr2021\ECE225_CSharp_01_17Apr2021\ECE225_CSharp_01_12Apr2021\Robot\bin\Debug\Tiger.Video.VFW.dll
+C:\Users\alaga\Downloads\Telegram Desktop\Code_08_JasperShuiXing_18Apr2021\ECE225_CSharp_01_17Apr2021\ECE225_CSharp_01_12Apr2021\Robot\bin\Debug\AForge.xml
+C:\Users\alaga\Downloads\Telegram Desktop\Code_08_JasperShuiXing_18Apr2021\ECE225_CSharp_01_17Apr2021\ECE225_CSharp_01_12Apr2021\Robot\bin\Debug\AForge.Controls.xml
+C:\Users\alaga\Downloads\Telegram Desktop\Code_08_JasperShuiXing_18Apr2021\ECE225_CSharp_01_17Apr2021\ECE225_CSharp_01_12Apr2021\Robot\bin\Debug\AForge.Genetic.xml
+C:\Users\alaga\Downloads\Telegram Desktop\Code_08_JasperShuiXing_18Apr2021\ECE225_CSharp_01_17Apr2021\ECE225_CSharp_01_12Apr2021\Robot\bin\Debug\AForge.Imaging.xml
+C:\Users\alaga\Downloads\Telegram Desktop\Code_08_JasperShuiXing_18Apr2021\ECE225_CSharp_01_17Apr2021\ECE225_CSharp_01_12Apr2021\Robot\bin\Debug\AForge.Imaging.Formats.xml
+C:\Users\alaga\Downloads\Telegram Desktop\Code_08_JasperShuiXing_18Apr2021\ECE225_CSharp_01_17Apr2021\ECE225_CSharp_01_12Apr2021\Robot\bin\Debug\AForge.Math.xml
+C:\Users\alaga\Downloads\Telegram Desktop\Code_08_JasperShuiXing_18Apr2021\ECE225_CSharp_01_17Apr2021\ECE225_CSharp_01_12Apr2021\Robot\bin\Debug\AForge.Neuro.xml
+C:\Users\alaga\Downloads\Telegram Desktop\Code_08_JasperShuiXing_18Apr2021\ECE225_CSharp_01_17Apr2021\ECE225_CSharp_01_12Apr2021\Robot\bin\Debug\AForge.Video.xml
+C:\Users\alaga\Downloads\Telegram Desktop\Code_08_JasperShuiXing_18Apr2021\ECE225_CSharp_01_17Apr2021\ECE225_CSharp_01_12Apr2021\Robot\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\alaga\Downloads\Telegram Desktop\Code_08_JasperShuiXing_18Apr2021\ECE225_CSharp_01_17Apr2021\ECE225_CSharp_01_12Apr2021\Robot\bin\Debug\AForge.Vision.xml
+C:\Users\alaga\Downloads\Telegram Desktop\Code_08_JasperShuiXing_18Apr2021\ECE225_CSharp_01_17Apr2021\ECE225_CSharp_01_12Apr2021\Robot\bin\Debug\cs\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\Users\alaga\Downloads\Telegram Desktop\Code_08_JasperShuiXing_18Apr2021\ECE225_CSharp_01_17Apr2021\ECE225_CSharp_01_12Apr2021\Robot\bin\Debug\de\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\Users\alaga\Downloads\Telegram Desktop\Code_08_JasperShuiXing_18Apr2021\ECE225_CSharp_01_17Apr2021\ECE225_CSharp_01_12Apr2021\Robot\bin\Debug\es\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\Users\alaga\Downloads\Telegram Desktop\Code_08_JasperShuiXing_18Apr2021\ECE225_CSharp_01_17Apr2021\ECE225_CSharp_01_12Apr2021\Robot\bin\Debug\fr\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\Users\alaga\Downloads\Telegram Desktop\Code_08_JasperShuiXing_18Apr2021\ECE225_CSharp_01_17Apr2021\ECE225_CSharp_01_12Apr2021\Robot\bin\Debug\it\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\Users\alaga\Downloads\Telegram Desktop\Code_08_JasperShuiXing_18Apr2021\ECE225_CSharp_01_17Apr2021\ECE225_CSharp_01_12Apr2021\Robot\bin\Debug\ja\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\Users\alaga\Downloads\Telegram Desktop\Code_08_JasperShuiXing_18Apr2021\ECE225_CSharp_01_17Apr2021\ECE225_CSharp_01_12Apr2021\Robot\bin\Debug\ko\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\Users\alaga\Downloads\Telegram Desktop\Code_08_JasperShuiXing_18Apr2021\ECE225_CSharp_01_17Apr2021\ECE225_CSharp_01_12Apr2021\Robot\bin\Debug\pl\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\Users\alaga\Downloads\Telegram Desktop\Code_08_JasperShuiXing_18Apr2021\ECE225_CSharp_01_17Apr2021\ECE225_CSharp_01_12Apr2021\Robot\bin\Debug\pt-BR\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\Users\alaga\Downloads\Telegram Desktop\Code_08_JasperShuiXing_18Apr2021\ECE225_CSharp_01_17Apr2021\ECE225_CSharp_01_12Apr2021\Robot\bin\Debug\ru\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\Users\alaga\Downloads\Telegram Desktop\Code_08_JasperShuiXing_18Apr2021\ECE225_CSharp_01_17Apr2021\ECE225_CSharp_01_12Apr2021\Robot\bin\Debug\tr\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\Users\alaga\Downloads\Telegram Desktop\Code_08_JasperShuiXing_18Apr2021\ECE225_CSharp_01_17Apr2021\ECE225_CSharp_01_12Apr2021\Robot\bin\Debug\zh-Hans\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\Users\alaga\Downloads\Telegram Desktop\Code_08_JasperShuiXing_18Apr2021\ECE225_CSharp_01_17Apr2021\ECE225_CSharp_01_12Apr2021\Robot\bin\Debug\zh-Hant\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\Users\alaga\Downloads\Telegram Desktop\Code_08_JasperShuiXing_18Apr2021\ECE225_CSharp_01_17Apr2021\ECE225_CSharp_01_12Apr2021\Robot\obj\Debug\motion.CameraWindow.resources
+C:\Users\alaga\Downloads\Telegram Desktop\Code_08_JasperShuiXing_18Apr2021\ECE225_CSharp_01_17Apr2021\ECE225_CSharp_01_12Apr2021\Robot\obj\Debug\Robot.MainForm.resources
+C:\Users\alaga\Downloads\Telegram Desktop\Code_08_JasperShuiXing_18Apr2021\ECE225_CSharp_01_17Apr2021\ECE225_CSharp_01_12Apr2021\Robot\obj\Debug\Robot.Properties.Resources.resources
+C:\Users\alaga\Downloads\Telegram Desktop\Code_08_JasperShuiXing_18Apr2021\ECE225_CSharp_01_17Apr2021\ECE225_CSharp_01_12Apr2021\Robot\obj\Debug\Robot.csproj.GenerateResource.cache
+C:\Users\alaga\Downloads\Telegram Desktop\Code_08_JasperShuiXing_18Apr2021\ECE225_CSharp_01_17Apr2021\ECE225_CSharp_01_12Apr2021\Robot\obj\Debug\Robot.csproj.CoreCompileInputs.cache
+C:\Users\alaga\Downloads\Telegram Desktop\Code_08_JasperShuiXing_18Apr2021\ECE225_CSharp_01_17Apr2021\ECE225_CSharp_01_12Apr2021\Robot\obj\Debug\Robot.csproj.CopyComplete
+C:\01-Academic\09_SEM\05_ECE225(Robotics)\code\ECE225_CSharp_01_17Apr2021\ECE225_CSharp_01_12Apr2021\Robot\bin\Debug\Robot.exe.config
+C:\01-Academic\09_SEM\05_ECE225(Robotics)\code\ECE225_CSharp_01_17Apr2021\ECE225_CSharp_01_12Apr2021\Robot\bin\Debug\Robot.exe
+C:\01-Academic\09_SEM\05_ECE225(Robotics)\code\ECE225_CSharp_01_17Apr2021\ECE225_CSharp_01_12Apr2021\Robot\bin\Debug\Robot.pdb
+C:\01-Academic\09_SEM\05_ECE225(Robotics)\code\ECE225_CSharp_01_17Apr2021\ECE225_CSharp_01_12Apr2021\Robot\bin\Debug\AForge.Controls.dll
+C:\01-Academic\09_SEM\05_ECE225(Robotics)\code\ECE225_CSharp_01_17Apr2021\ECE225_CSharp_01_12Apr2021\Robot\bin\Debug\AForge.dll
+C:\01-Academic\09_SEM\05_ECE225(Robotics)\code\ECE225_CSharp_01_17Apr2021\ECE225_CSharp_01_12Apr2021\Robot\bin\Debug\AForge.Genetic.dll
+C:\01-Academic\09_SEM\05_ECE225(Robotics)\code\ECE225_CSharp_01_17Apr2021\ECE225_CSharp_01_12Apr2021\Robot\bin\Debug\AForge.Imaging.dll
+C:\01-Academic\09_SEM\05_ECE225(Robotics)\code\ECE225_CSharp_01_17Apr2021\ECE225_CSharp_01_12Apr2021\Robot\bin\Debug\AForge.Imaging.Formats.dll
+C:\01-Academic\09_SEM\05_ECE225(Robotics)\code\ECE225_CSharp_01_17Apr2021\ECE225_CSharp_01_12Apr2021\Robot\bin\Debug\AForge.Math.dll
+C:\01-Academic\09_SEM\05_ECE225(Robotics)\code\ECE225_CSharp_01_17Apr2021\ECE225_CSharp_01_12Apr2021\Robot\bin\Debug\AForge.Neuro.dll
+C:\01-Academic\09_SEM\05_ECE225(Robotics)\code\ECE225_CSharp_01_17Apr2021\ECE225_CSharp_01_12Apr2021\Robot\bin\Debug\AForge.Video.DirectShow.dll
+C:\01-Academic\09_SEM\05_ECE225(Robotics)\code\ECE225_CSharp_01_17Apr2021\ECE225_CSharp_01_12Apr2021\Robot\bin\Debug\AForge.Video.dll
+C:\01-Academic\09_SEM\05_ECE225(Robotics)\code\ECE225_CSharp_01_17Apr2021\ECE225_CSharp_01_12Apr2021\Robot\bin\Debug\AForge.Vision.dll
+C:\01-Academic\09_SEM\05_ECE225(Robotics)\code\ECE225_CSharp_01_17Apr2021\ECE225_CSharp_01_12Apr2021\Robot\bin\Debug\dshow.dll
+C:\01-Academic\09_SEM\05_ECE225(Robotics)\code\ECE225_CSharp_01_17Apr2021\ECE225_CSharp_01_12Apr2021\Robot\bin\Debug\MatrixShow.dll
+C:\01-Academic\09_SEM\05_ECE225(Robotics)\code\ECE225_CSharp_01_17Apr2021\ECE225_CSharp_01_12Apr2021\Robot\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\01-Academic\09_SEM\05_ECE225(Robotics)\code\ECE225_CSharp_01_17Apr2021\ECE225_CSharp_01_12Apr2021\Robot\bin\Debug\SignalStrengthMeter.dll
+C:\01-Academic\09_SEM\05_ECE225(Robotics)\code\ECE225_CSharp_01_17Apr2021\ECE225_CSharp_01_12Apr2021\Robot\bin\Debug\Tiger.Video.VFW.dll
+C:\01-Academic\09_SEM\05_ECE225(Robotics)\code\ECE225_CSharp_01_17Apr2021\ECE225_CSharp_01_12Apr2021\Robot\bin\Debug\AForge.xml
+C:\01-Academic\09_SEM\05_ECE225(Robotics)\code\ECE225_CSharp_01_17Apr2021\ECE225_CSharp_01_12Apr2021\Robot\bin\Debug\AForge.Controls.xml
+C:\01-Academic\09_SEM\05_ECE225(Robotics)\code\ECE225_CSharp_01_17Apr2021\ECE225_CSharp_01_12Apr2021\Robot\bin\Debug\AForge.Genetic.xml
+C:\01-Academic\09_SEM\05_ECE225(Robotics)\code\ECE225_CSharp_01_17Apr2021\ECE225_CSharp_01_12Apr2021\Robot\bin\Debug\AForge.Imaging.xml
+C:\01-Academic\09_SEM\05_ECE225(Robotics)\code\ECE225_CSharp_01_17Apr2021\ECE225_CSharp_01_12Apr2021\Robot\bin\Debug\AForge.Imaging.Formats.xml
+C:\01-Academic\09_SEM\05_ECE225(Robotics)\code\ECE225_CSharp_01_17Apr2021\ECE225_CSharp_01_12Apr2021\Robot\bin\Debug\AForge.Math.xml
+C:\01-Academic\09_SEM\05_ECE225(Robotics)\code\ECE225_CSharp_01_17Apr2021\ECE225_CSharp_01_12Apr2021\Robot\bin\Debug\AForge.Neuro.xml
+C:\01-Academic\09_SEM\05_ECE225(Robotics)\code\ECE225_CSharp_01_17Apr2021\ECE225_CSharp_01_12Apr2021\Robot\bin\Debug\AForge.Video.xml
+C:\01-Academic\09_SEM\05_ECE225(Robotics)\code\ECE225_CSharp_01_17Apr2021\ECE225_CSharp_01_12Apr2021\Robot\bin\Debug\AForge.Video.DirectShow.xml
+C:\01-Academic\09_SEM\05_ECE225(Robotics)\code\ECE225_CSharp_01_17Apr2021\ECE225_CSharp_01_12Apr2021\Robot\bin\Debug\AForge.Vision.xml
+C:\01-Academic\09_SEM\05_ECE225(Robotics)\code\ECE225_CSharp_01_17Apr2021\ECE225_CSharp_01_12Apr2021\Robot\bin\Debug\cs\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\01-Academic\09_SEM\05_ECE225(Robotics)\code\ECE225_CSharp_01_17Apr2021\ECE225_CSharp_01_12Apr2021\Robot\bin\Debug\de\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\01-Academic\09_SEM\05_ECE225(Robotics)\code\ECE225_CSharp_01_17Apr2021\ECE225_CSharp_01_12Apr2021\Robot\bin\Debug\es\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\01-Academic\09_SEM\05_ECE225(Robotics)\code\ECE225_CSharp_01_17Apr2021\ECE225_CSharp_01_12Apr2021\Robot\bin\Debug\fr\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\01-Academic\09_SEM\05_ECE225(Robotics)\code\ECE225_CSharp_01_17Apr2021\ECE225_CSharp_01_12Apr2021\Robot\bin\Debug\it\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\01-Academic\09_SEM\05_ECE225(Robotics)\code\ECE225_CSharp_01_17Apr2021\ECE225_CSharp_01_12Apr2021\Robot\bin\Debug\ja\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\01-Academic\09_SEM\05_ECE225(Robotics)\code\ECE225_CSharp_01_17Apr2021\ECE225_CSharp_01_12Apr2021\Robot\bin\Debug\ko\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\01-Academic\09_SEM\05_ECE225(Robotics)\code\ECE225_CSharp_01_17Apr2021\ECE225_CSharp_01_12Apr2021\Robot\bin\Debug\pl\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\01-Academic\09_SEM\05_ECE225(Robotics)\code\ECE225_CSharp_01_17Apr2021\ECE225_CSharp_01_12Apr2021\Robot\bin\Debug\pt-BR\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\01-Academic\09_SEM\05_ECE225(Robotics)\code\ECE225_CSharp_01_17Apr2021\ECE225_CSharp_01_12Apr2021\Robot\bin\Debug\ru\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\01-Academic\09_SEM\05_ECE225(Robotics)\code\ECE225_CSharp_01_17Apr2021\ECE225_CSharp_01_12Apr2021\Robot\bin\Debug\tr\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\01-Academic\09_SEM\05_ECE225(Robotics)\code\ECE225_CSharp_01_17Apr2021\ECE225_CSharp_01_12Apr2021\Robot\bin\Debug\zh-Hans\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\01-Academic\09_SEM\05_ECE225(Robotics)\code\ECE225_CSharp_01_17Apr2021\ECE225_CSharp_01_12Apr2021\Robot\bin\Debug\zh-Hant\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\01-Academic\09_SEM\05_ECE225(Robotics)\code\ECE225_CSharp_01_17Apr2021\ECE225_CSharp_01_12Apr2021\Robot\obj\Debug\Robot.csproj.AssemblyReference.cache
+C:\01-Academic\09_SEM\05_ECE225(Robotics)\code\ECE225_CSharp_01_17Apr2021\ECE225_CSharp_01_12Apr2021\Robot\obj\Debug\Robot.csproj.SuggestedBindingRedirects.cache
+C:\01-Academic\09_SEM\05_ECE225(Robotics)\code\ECE225_CSharp_01_17Apr2021\ECE225_CSharp_01_12Apr2021\Robot\obj\Debug\motion.CameraWindow.resources
+C:\01-Academic\09_SEM\05_ECE225(Robotics)\code\ECE225_CSharp_01_17Apr2021\ECE225_CSharp_01_12Apr2021\Robot\obj\Debug\Robot.MainForm.resources
+C:\01-Academic\09_SEM\05_ECE225(Robotics)\code\ECE225_CSharp_01_17Apr2021\ECE225_CSharp_01_12Apr2021\Robot\obj\Debug\Robot.Properties.Resources.resources
+C:\01-Academic\09_SEM\05_ECE225(Robotics)\code\ECE225_CSharp_01_17Apr2021\ECE225_CSharp_01_12Apr2021\Robot\obj\Debug\Robot.csproj.GenerateResource.cache
+C:\01-Academic\09_SEM\05_ECE225(Robotics)\code\ECE225_CSharp_01_17Apr2021\ECE225_CSharp_01_12Apr2021\Robot\obj\Debug\Robot.csproj.CoreCompileInputs.cache
+C:\01-Academic\09_SEM\05_ECE225(Robotics)\code\ECE225_CSharp_01_17Apr2021\ECE225_CSharp_01_12Apr2021\Robot\obj\Debug\Robot.csproj.CopyComplete
+C:\01-Academic\09_SEM\05_ECE225(Robotics)\code\ECE225_CSharp_01_17Apr2021\ECE225_CSharp_01_12Apr2021\Robot\obj\Debug\Robot.exe
+C:\01-Academic\09_SEM\05_ECE225(Robotics)\code\ECE225_CSharp_01_17Apr2021\ECE225_CSharp_01_12Apr2021\Robot\obj\Debug\Robot.pdb
+C:\01-Academic\09_SEM\05_ECE225(Robotics)\code\ECE225_CSharp_01_17Apr2021\G01_ECE225_CSharp_2023_07Apr2023\Robot\obj\Debug\Robot.csproj.AssemblyReference.cache
+C:\01-Academic\09_SEM\05_ECE225(Robotics)\code\ECE225_CSharp_01_17Apr2021\G01_ECE225_CSharp_2023_07Apr2023\Robot\obj\Debug\Robot.csproj.SuggestedBindingRedirects.cache
+C:\01-Academic\09_SEM\05_ECE225(Robotics)\code\ECE225_CSharp_01_17Apr2021\G01_ECE225_CSharp_2023_07Apr2023\Robot\obj\Debug\motion.CameraWindow.resources
+C:\01-Academic\09_SEM\05_ECE225(Robotics)\code\ECE225_CSharp_01_17Apr2021\G01_ECE225_CSharp_2023_07Apr2023\Robot\obj\Debug\Robot.MainForm.resources
+C:\01-Academic\09_SEM\05_ECE225(Robotics)\code\ECE225_CSharp_01_17Apr2021\G01_ECE225_CSharp_2023_07Apr2023\Robot\obj\Debug\Robot.Properties.Resources.resources
+C:\01-Academic\09_SEM\05_ECE225(Robotics)\code\ECE225_CSharp_01_17Apr2021\G01_ECE225_CSharp_2023_07Apr2023\Robot\obj\Debug\Robot.csproj.GenerateResource.cache
+C:\01-Academic\09_SEM\05_ECE225(Robotics)\code\ECE225_CSharp_01_17Apr2021\G01_ECE225_CSharp_2023_07Apr2023\Robot\obj\Debug\Robot.csproj.CoreCompileInputs.cache
+C:\01-Academic\09_SEM\05_ECE225(Robotics)\code\ECE225_CSharp_01_17Apr2021\G01_ECE225_CSharp_2023_07Apr2023\Robot\obj\Debug\Robot.exe
+C:\01-Academic\09_SEM\05_ECE225(Robotics)\code\ECE225_CSharp_01_17Apr2021\G01_ECE225_CSharp_2023_07Apr2023\Robot\obj\Debug\Robot.pdb
+C:\01-Academic\09_SEM\05_ECE225(Robotics)\code\ECE225_CSharp_01_17Apr2021\G01_ECE225_CSharp_2023_07Apr2023\Robot\bin\Debug\Robot.exe.config
+C:\01-Academic\09_SEM\05_ECE225(Robotics)\code\ECE225_CSharp_01_17Apr2021\G01_ECE225_CSharp_2023_07Apr2023\Robot\bin\Debug\Robot.exe
+C:\01-Academic\09_SEM\05_ECE225(Robotics)\code\ECE225_CSharp_01_17Apr2021\G01_ECE225_CSharp_2023_07Apr2023\Robot\bin\Debug\Robot.pdb
+C:\01-Academic\09_SEM\05_ECE225(Robotics)\code\ECE225_CSharp_01_17Apr2021\G01_ECE225_CSharp_2023_07Apr2023\Robot\bin\Debug\AForge.Controls.dll
+C:\01-Academic\09_SEM\05_ECE225(Robotics)\code\ECE225_CSharp_01_17Apr2021\G01_ECE225_CSharp_2023_07Apr2023\Robot\bin\Debug\AForge.dll
+C:\01-Academic\09_SEM\05_ECE225(Robotics)\code\ECE225_CSharp_01_17Apr2021\G01_ECE225_CSharp_2023_07Apr2023\Robot\bin\Debug\AForge.Genetic.dll
+C:\01-Academic\09_SEM\05_ECE225(Robotics)\code\ECE225_CSharp_01_17Apr2021\G01_ECE225_CSharp_2023_07Apr2023\Robot\bin\Debug\AForge.Imaging.dll
+C:\01-Academic\09_SEM\05_ECE225(Robotics)\code\ECE225_CSharp_01_17Apr2021\G01_ECE225_CSharp_2023_07Apr2023\Robot\bin\Debug\AForge.Imaging.Formats.dll
+C:\01-Academic\09_SEM\05_ECE225(Robotics)\code\ECE225_CSharp_01_17Apr2021\G01_ECE225_CSharp_2023_07Apr2023\Robot\bin\Debug\AForge.Math.dll
+C:\01-Academic\09_SEM\05_ECE225(Robotics)\code\ECE225_CSharp_01_17Apr2021\G01_ECE225_CSharp_2023_07Apr2023\Robot\bin\Debug\AForge.Neuro.dll
+C:\01-Academic\09_SEM\05_ECE225(Robotics)\code\ECE225_CSharp_01_17Apr2021\G01_ECE225_CSharp_2023_07Apr2023\Robot\bin\Debug\AForge.Video.DirectShow.dll
+C:\01-Academic\09_SEM\05_ECE225(Robotics)\code\ECE225_CSharp_01_17Apr2021\G01_ECE225_CSharp_2023_07Apr2023\Robot\bin\Debug\AForge.Video.dll
+C:\01-Academic\09_SEM\05_ECE225(Robotics)\code\ECE225_CSharp_01_17Apr2021\G01_ECE225_CSharp_2023_07Apr2023\Robot\bin\Debug\AForge.Vision.dll
+C:\01-Academic\09_SEM\05_ECE225(Robotics)\code\ECE225_CSharp_01_17Apr2021\G01_ECE225_CSharp_2023_07Apr2023\Robot\bin\Debug\dshow.dll
+C:\01-Academic\09_SEM\05_ECE225(Robotics)\code\ECE225_CSharp_01_17Apr2021\G01_ECE225_CSharp_2023_07Apr2023\Robot\bin\Debug\MatrixShow.dll
+C:\01-Academic\09_SEM\05_ECE225(Robotics)\code\ECE225_CSharp_01_17Apr2021\G01_ECE225_CSharp_2023_07Apr2023\Robot\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\01-Academic\09_SEM\05_ECE225(Robotics)\code\ECE225_CSharp_01_17Apr2021\G01_ECE225_CSharp_2023_07Apr2023\Robot\bin\Debug\SignalStrengthMeter.dll
+C:\01-Academic\09_SEM\05_ECE225(Robotics)\code\ECE225_CSharp_01_17Apr2021\G01_ECE225_CSharp_2023_07Apr2023\Robot\bin\Debug\Tiger.Video.VFW.dll
+C:\01-Academic\09_SEM\05_ECE225(Robotics)\code\ECE225_CSharp_01_17Apr2021\G01_ECE225_CSharp_2023_07Apr2023\Robot\bin\Debug\AForge.xml
+C:\01-Academic\09_SEM\05_ECE225(Robotics)\code\ECE225_CSharp_01_17Apr2021\G01_ECE225_CSharp_2023_07Apr2023\Robot\bin\Debug\AForge.Controls.xml
+C:\01-Academic\09_SEM\05_ECE225(Robotics)\code\ECE225_CSharp_01_17Apr2021\G01_ECE225_CSharp_2023_07Apr2023\Robot\bin\Debug\AForge.Genetic.xml
+C:\01-Academic\09_SEM\05_ECE225(Robotics)\code\ECE225_CSharp_01_17Apr2021\G01_ECE225_CSharp_2023_07Apr2023\Robot\bin\Debug\AForge.Imaging.xml
+C:\01-Academic\09_SEM\05_ECE225(Robotics)\code\ECE225_CSharp_01_17Apr2021\G01_ECE225_CSharp_2023_07Apr2023\Robot\bin\Debug\AForge.Imaging.Formats.xml
+C:\01-Academic\09_SEM\05_ECE225(Robotics)\code\ECE225_CSharp_01_17Apr2021\G01_ECE225_CSharp_2023_07Apr2023\Robot\bin\Debug\AForge.Math.xml
+C:\01-Academic\09_SEM\05_ECE225(Robotics)\code\ECE225_CSharp_01_17Apr2021\G01_ECE225_CSharp_2023_07Apr2023\Robot\bin\Debug\AForge.Neuro.xml
+C:\01-Academic\09_SEM\05_ECE225(Robotics)\code\ECE225_CSharp_01_17Apr2021\G01_ECE225_CSharp_2023_07Apr2023\Robot\bin\Debug\AForge.Video.xml
+C:\01-Academic\09_SEM\05_ECE225(Robotics)\code\ECE225_CSharp_01_17Apr2021\G01_ECE225_CSharp_2023_07Apr2023\Robot\bin\Debug\AForge.Video.DirectShow.xml
+C:\01-Academic\09_SEM\05_ECE225(Robotics)\code\ECE225_CSharp_01_17Apr2021\G01_ECE225_CSharp_2023_07Apr2023\Robot\bin\Debug\AForge.Vision.xml
+C:\01-Academic\09_SEM\05_ECE225(Robotics)\code\ECE225_CSharp_01_17Apr2021\G01_ECE225_CSharp_2023_07Apr2023\Robot\bin\Debug\cs\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\01-Academic\09_SEM\05_ECE225(Robotics)\code\ECE225_CSharp_01_17Apr2021\G01_ECE225_CSharp_2023_07Apr2023\Robot\bin\Debug\de\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\01-Academic\09_SEM\05_ECE225(Robotics)\code\ECE225_CSharp_01_17Apr2021\G01_ECE225_CSharp_2023_07Apr2023\Robot\bin\Debug\es\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\01-Academic\09_SEM\05_ECE225(Robotics)\code\ECE225_CSharp_01_17Apr2021\G01_ECE225_CSharp_2023_07Apr2023\Robot\bin\Debug\fr\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\01-Academic\09_SEM\05_ECE225(Robotics)\code\ECE225_CSharp_01_17Apr2021\G01_ECE225_CSharp_2023_07Apr2023\Robot\bin\Debug\it\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\01-Academic\09_SEM\05_ECE225(Robotics)\code\ECE225_CSharp_01_17Apr2021\G01_ECE225_CSharp_2023_07Apr2023\Robot\bin\Debug\ja\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\01-Academic\09_SEM\05_ECE225(Robotics)\code\ECE225_CSharp_01_17Apr2021\G01_ECE225_CSharp_2023_07Apr2023\Robot\bin\Debug\ko\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\01-Academic\09_SEM\05_ECE225(Robotics)\code\ECE225_CSharp_01_17Apr2021\G01_ECE225_CSharp_2023_07Apr2023\Robot\bin\Debug\pl\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\01-Academic\09_SEM\05_ECE225(Robotics)\code\ECE225_CSharp_01_17Apr2021\G01_ECE225_CSharp_2023_07Apr2023\Robot\bin\Debug\pt-BR\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\01-Academic\09_SEM\05_ECE225(Robotics)\code\ECE225_CSharp_01_17Apr2021\G01_ECE225_CSharp_2023_07Apr2023\Robot\bin\Debug\ru\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\01-Academic\09_SEM\05_ECE225(Robotics)\code\ECE225_CSharp_01_17Apr2021\G01_ECE225_CSharp_2023_07Apr2023\Robot\bin\Debug\tr\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\01-Academic\09_SEM\05_ECE225(Robotics)\code\ECE225_CSharp_01_17Apr2021\G01_ECE225_CSharp_2023_07Apr2023\Robot\bin\Debug\zh-Hans\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\01-Academic\09_SEM\05_ECE225(Robotics)\code\ECE225_CSharp_01_17Apr2021\G01_ECE225_CSharp_2023_07Apr2023\Robot\bin\Debug\zh-Hant\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\01-Academic\09_SEM\05_ECE225(Robotics)\code\ECE225_CSharp_01_17Apr2021\G01_ECE225_CSharp_2023_07Apr2023\Robot\obj\Debug\Robot.csproj.CopyComplete
+C:\Users\roset\OneDrive\Documents\LAST FUCKING TRIMESTER OF SCHOOL\ROBOTICS\ece225\ECE225\Everything Needed to Survive\G01_ECE225_2023_07Apr2023\G01_ECE225_CSharp_01_23Feb2023\Robot\obj\Debug\Robot.csproj.AssemblyReference.cache
+C:\Users\roset\OneDrive\Documents\LAST FUCKING TRIMESTER OF SCHOOL\ROBOTICS\ece225\ECE225\Everything Needed to Survive\G01_ECE225_2023_07Apr2023\G01_ECE225_CSharp_01_23Feb2023\Robot\obj\Debug\Robot.exe
+C:\Users\roset\OneDrive\Documents\LAST FUCKING TRIMESTER OF SCHOOL\ROBOTICS\ece225\ECE225\Everything Needed to Survive\G01_ECE225_2023_07Apr2023\G01_ECE225_CSharp_01_23Feb2023\Robot\obj\Debug\Robot.pdb
+C:\Users\roset\Downloads\G01_ECE225_CSharp_01_23Feb2023\Robot\obj\Debug\Robot.csproj.AssemblyReference.cache
+C:\Users\roset\Downloads\G01_ECE225_CSharp_01_23Feb2023\Robot\obj\Debug\Robot.exe
+C:\Users\roset\Downloads\G01_ECE225_CSharp_01_23Feb2023\Robot\obj\Debug\Robot.pdb
+C:\Users\roset\Downloads\G01_ECE225_CSharp_01_23Feb2023\Robot\bin\Debug\Robot.exe.config
+C:\Users\roset\Downloads\G01_ECE225_CSharp_01_23Feb2023\Robot\bin\Debug\Robot.exe
+C:\Users\roset\Downloads\G01_ECE225_CSharp_01_23Feb2023\Robot\bin\Debug\Robot.pdb
+C:\Users\roset\Downloads\G01_ECE225_CSharp_01_23Feb2023\Robot\bin\Debug\AForge.Controls.dll
+C:\Users\roset\Downloads\G01_ECE225_CSharp_01_23Feb2023\Robot\bin\Debug\AForge.dll
+C:\Users\roset\Downloads\G01_ECE225_CSharp_01_23Feb2023\Robot\bin\Debug\AForge.Genetic.dll
+C:\Users\roset\Downloads\G01_ECE225_CSharp_01_23Feb2023\Robot\bin\Debug\AForge.Imaging.dll
+C:\Users\roset\Downloads\G01_ECE225_CSharp_01_23Feb2023\Robot\bin\Debug\AForge.Imaging.Formats.dll
+C:\Users\roset\Downloads\G01_ECE225_CSharp_01_23Feb2023\Robot\bin\Debug\AForge.Math.dll
+C:\Users\roset\Downloads\G01_ECE225_CSharp_01_23Feb2023\Robot\bin\Debug\AForge.Neuro.dll
+C:\Users\roset\Downloads\G01_ECE225_CSharp_01_23Feb2023\Robot\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\roset\Downloads\G01_ECE225_CSharp_01_23Feb2023\Robot\bin\Debug\AForge.Video.dll
+C:\Users\roset\Downloads\G01_ECE225_CSharp_01_23Feb2023\Robot\bin\Debug\AForge.Vision.dll
+C:\Users\roset\Downloads\G01_ECE225_CSharp_01_23Feb2023\Robot\bin\Debug\dshow.dll
+C:\Users\roset\Downloads\G01_ECE225_CSharp_01_23Feb2023\Robot\bin\Debug\MatrixShow.dll
+C:\Users\roset\Downloads\G01_ECE225_CSharp_01_23Feb2023\Robot\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\roset\Downloads\G01_ECE225_CSharp_01_23Feb2023\Robot\bin\Debug\SignalStrengthMeter.dll
+C:\Users\roset\Downloads\G01_ECE225_CSharp_01_23Feb2023\Robot\bin\Debug\Tiger.Video.VFW.dll
+C:\Users\roset\Downloads\G01_ECE225_CSharp_01_23Feb2023\Robot\bin\Debug\AForge.xml
+C:\Users\roset\Downloads\G01_ECE225_CSharp_01_23Feb2023\Robot\bin\Debug\AForge.Controls.xml
+C:\Users\roset\Downloads\G01_ECE225_CSharp_01_23Feb2023\Robot\bin\Debug\AForge.Genetic.xml
+C:\Users\roset\Downloads\G01_ECE225_CSharp_01_23Feb2023\Robot\bin\Debug\AForge.Imaging.xml
+C:\Users\roset\Downloads\G01_ECE225_CSharp_01_23Feb2023\Robot\bin\Debug\AForge.Imaging.Formats.xml
+C:\Users\roset\Downloads\G01_ECE225_CSharp_01_23Feb2023\Robot\bin\Debug\AForge.Math.xml
+C:\Users\roset\Downloads\G01_ECE225_CSharp_01_23Feb2023\Robot\bin\Debug\AForge.Neuro.xml
+C:\Users\roset\Downloads\G01_ECE225_CSharp_01_23Feb2023\Robot\bin\Debug\AForge.Video.xml
+C:\Users\roset\Downloads\G01_ECE225_CSharp_01_23Feb2023\Robot\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\roset\Downloads\G01_ECE225_CSharp_01_23Feb2023\Robot\bin\Debug\AForge.Vision.xml
+C:\Users\roset\Downloads\G01_ECE225_CSharp_01_23Feb2023\Robot\bin\Debug\cs\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\Users\roset\Downloads\G01_ECE225_CSharp_01_23Feb2023\Robot\bin\Debug\de\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\Users\roset\Downloads\G01_ECE225_CSharp_01_23Feb2023\Robot\bin\Debug\es\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\Users\roset\Downloads\G01_ECE225_CSharp_01_23Feb2023\Robot\bin\Debug\fr\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\Users\roset\Downloads\G01_ECE225_CSharp_01_23Feb2023\Robot\bin\Debug\it\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\Users\roset\Downloads\G01_ECE225_CSharp_01_23Feb2023\Robot\bin\Debug\ja\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\Users\roset\Downloads\G01_ECE225_CSharp_01_23Feb2023\Robot\bin\Debug\ko\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\Users\roset\Downloads\G01_ECE225_CSharp_01_23Feb2023\Robot\bin\Debug\pl\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\Users\roset\Downloads\G01_ECE225_CSharp_01_23Feb2023\Robot\bin\Debug\pt-BR\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\Users\roset\Downloads\G01_ECE225_CSharp_01_23Feb2023\Robot\bin\Debug\ru\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\Users\roset\Downloads\G01_ECE225_CSharp_01_23Feb2023\Robot\bin\Debug\tr\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\Users\roset\Downloads\G01_ECE225_CSharp_01_23Feb2023\Robot\bin\Debug\zh-Hans\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\Users\roset\Downloads\G01_ECE225_CSharp_01_23Feb2023\Robot\bin\Debug\zh-Hant\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\Users\roset\Downloads\G01_ECE225_CSharp_01_23Feb2023\Robot\obj\Debug\motion.CameraWindow.resources
+C:\Users\roset\Downloads\G01_ECE225_CSharp_01_23Feb2023\Robot\obj\Debug\Robot.MainForm.resources
+C:\Users\roset\Downloads\G01_ECE225_CSharp_01_23Feb2023\Robot\obj\Debug\Robot.Properties.Resources.resources
+C:\Users\roset\Downloads\G01_ECE225_CSharp_01_23Feb2023\Robot\obj\Debug\Robot.csproj.GenerateResource.cache
+C:\Users\roset\Downloads\G01_ECE225_CSharp_01_23Feb2023\Robot\obj\Debug\Robot.csproj.CoreCompileInputs.cache
+C:\Users\roset\Downloads\G01_ECE225_CSharp_01_23Feb2023\Robot\obj\Debug\Robot.csproj.CopyComplete
+C:\Users\roset\OneDrive\Documents\LAST FUCKING TRIMESTER OF SCHOOL\ROBOTICS\Project\Submissions\G05_Source_SEM4405_2024\G05_C#_11Apr2024\Robot\bin\Debug\Robot.exe.config
+C:\Users\roset\OneDrive\Documents\LAST FUCKING TRIMESTER OF SCHOOL\ROBOTICS\Project\Submissions\G05_Source_SEM4405_2024\G05_C#_11Apr2024\Robot\bin\Debug\Robot.exe
+C:\Users\roset\OneDrive\Documents\LAST FUCKING TRIMESTER OF SCHOOL\ROBOTICS\Project\Submissions\G05_Source_SEM4405_2024\G05_C#_11Apr2024\Robot\bin\Debug\Robot.pdb
+C:\Users\roset\OneDrive\Documents\LAST FUCKING TRIMESTER OF SCHOOL\ROBOTICS\Project\Submissions\G05_Source_SEM4405_2024\G05_C#_11Apr2024\Robot\bin\Debug\AForge.Controls.dll
+C:\Users\roset\OneDrive\Documents\LAST FUCKING TRIMESTER OF SCHOOL\ROBOTICS\Project\Submissions\G05_Source_SEM4405_2024\G05_C#_11Apr2024\Robot\bin\Debug\AForge.dll
+C:\Users\roset\OneDrive\Documents\LAST FUCKING TRIMESTER OF SCHOOL\ROBOTICS\Project\Submissions\G05_Source_SEM4405_2024\G05_C#_11Apr2024\Robot\bin\Debug\AForge.Genetic.dll
+C:\Users\roset\OneDrive\Documents\LAST FUCKING TRIMESTER OF SCHOOL\ROBOTICS\Project\Submissions\G05_Source_SEM4405_2024\G05_C#_11Apr2024\Robot\bin\Debug\AForge.Imaging.dll
+C:\Users\roset\OneDrive\Documents\LAST FUCKING TRIMESTER OF SCHOOL\ROBOTICS\Project\Submissions\G05_Source_SEM4405_2024\G05_C#_11Apr2024\Robot\bin\Debug\AForge.Imaging.Formats.dll
+C:\Users\roset\OneDrive\Documents\LAST FUCKING TRIMESTER OF SCHOOL\ROBOTICS\Project\Submissions\G05_Source_SEM4405_2024\G05_C#_11Apr2024\Robot\bin\Debug\AForge.Math.dll
+C:\Users\roset\OneDrive\Documents\LAST FUCKING TRIMESTER OF SCHOOL\ROBOTICS\Project\Submissions\G05_Source_SEM4405_2024\G05_C#_11Apr2024\Robot\bin\Debug\AForge.Neuro.dll
+C:\Users\roset\OneDrive\Documents\LAST FUCKING TRIMESTER OF SCHOOL\ROBOTICS\Project\Submissions\G05_Source_SEM4405_2024\G05_C#_11Apr2024\Robot\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\roset\OneDrive\Documents\LAST FUCKING TRIMESTER OF SCHOOL\ROBOTICS\Project\Submissions\G05_Source_SEM4405_2024\G05_C#_11Apr2024\Robot\bin\Debug\AForge.Video.dll
+C:\Users\roset\OneDrive\Documents\LAST FUCKING TRIMESTER OF SCHOOL\ROBOTICS\Project\Submissions\G05_Source_SEM4405_2024\G05_C#_11Apr2024\Robot\bin\Debug\AForge.Vision.dll
+C:\Users\roset\OneDrive\Documents\LAST FUCKING TRIMESTER OF SCHOOL\ROBOTICS\Project\Submissions\G05_Source_SEM4405_2024\G05_C#_11Apr2024\Robot\bin\Debug\dshow.dll
+C:\Users\roset\OneDrive\Documents\LAST FUCKING TRIMESTER OF SCHOOL\ROBOTICS\Project\Submissions\G05_Source_SEM4405_2024\G05_C#_11Apr2024\Robot\bin\Debug\MatrixShow.dll
+C:\Users\roset\OneDrive\Documents\LAST FUCKING TRIMESTER OF SCHOOL\ROBOTICS\Project\Submissions\G05_Source_SEM4405_2024\G05_C#_11Apr2024\Robot\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\roset\OneDrive\Documents\LAST FUCKING TRIMESTER OF SCHOOL\ROBOTICS\Project\Submissions\G05_Source_SEM4405_2024\G05_C#_11Apr2024\Robot\bin\Debug\SignalStrengthMeter.dll
+C:\Users\roset\OneDrive\Documents\LAST FUCKING TRIMESTER OF SCHOOL\ROBOTICS\Project\Submissions\G05_Source_SEM4405_2024\G05_C#_11Apr2024\Robot\bin\Debug\Tiger.Video.VFW.dll
+C:\Users\roset\OneDrive\Documents\LAST FUCKING TRIMESTER OF SCHOOL\ROBOTICS\Project\Submissions\G05_Source_SEM4405_2024\G05_C#_11Apr2024\Robot\bin\Debug\AForge.xml
+C:\Users\roset\OneDrive\Documents\LAST FUCKING TRIMESTER OF SCHOOL\ROBOTICS\Project\Submissions\G05_Source_SEM4405_2024\G05_C#_11Apr2024\Robot\bin\Debug\AForge.Controls.xml
+C:\Users\roset\OneDrive\Documents\LAST FUCKING TRIMESTER OF SCHOOL\ROBOTICS\Project\Submissions\G05_Source_SEM4405_2024\G05_C#_11Apr2024\Robot\bin\Debug\AForge.Genetic.xml
+C:\Users\roset\OneDrive\Documents\LAST FUCKING TRIMESTER OF SCHOOL\ROBOTICS\Project\Submissions\G05_Source_SEM4405_2024\G05_C#_11Apr2024\Robot\bin\Debug\AForge.Imaging.xml
+C:\Users\roset\OneDrive\Documents\LAST FUCKING TRIMESTER OF SCHOOL\ROBOTICS\Project\Submissions\G05_Source_SEM4405_2024\G05_C#_11Apr2024\Robot\bin\Debug\AForge.Imaging.Formats.xml
+C:\Users\roset\OneDrive\Documents\LAST FUCKING TRIMESTER OF SCHOOL\ROBOTICS\Project\Submissions\G05_Source_SEM4405_2024\G05_C#_11Apr2024\Robot\bin\Debug\AForge.Math.xml
+C:\Users\roset\OneDrive\Documents\LAST FUCKING TRIMESTER OF SCHOOL\ROBOTICS\Project\Submissions\G05_Source_SEM4405_2024\G05_C#_11Apr2024\Robot\bin\Debug\AForge.Neuro.xml
+C:\Users\roset\OneDrive\Documents\LAST FUCKING TRIMESTER OF SCHOOL\ROBOTICS\Project\Submissions\G05_Source_SEM4405_2024\G05_C#_11Apr2024\Robot\bin\Debug\AForge.Video.xml
+C:\Users\roset\OneDrive\Documents\LAST FUCKING TRIMESTER OF SCHOOL\ROBOTICS\Project\Submissions\G05_Source_SEM4405_2024\G05_C#_11Apr2024\Robot\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\roset\OneDrive\Documents\LAST FUCKING TRIMESTER OF SCHOOL\ROBOTICS\Project\Submissions\G05_Source_SEM4405_2024\G05_C#_11Apr2024\Robot\bin\Debug\AForge.Vision.xml
+C:\Users\roset\OneDrive\Documents\LAST FUCKING TRIMESTER OF SCHOOL\ROBOTICS\Project\Submissions\G05_Source_SEM4405_2024\G05_C#_11Apr2024\Robot\obj\Debug\Robot.csproj.AssemblyReference.cache
+C:\Users\roset\OneDrive\Documents\LAST FUCKING TRIMESTER OF SCHOOL\ROBOTICS\Project\Submissions\G05_Source_SEM4405_2024\G05_C#_11Apr2024\Robot\obj\Debug\motion.CameraWindow.resources
+C:\Users\roset\OneDrive\Documents\LAST FUCKING TRIMESTER OF SCHOOL\ROBOTICS\Project\Submissions\G05_Source_SEM4405_2024\G05_C#_11Apr2024\Robot\obj\Debug\Robot.MainForm.resources
+C:\Users\roset\OneDrive\Documents\LAST FUCKING TRIMESTER OF SCHOOL\ROBOTICS\Project\Submissions\G05_Source_SEM4405_2024\G05_C#_11Apr2024\Robot\obj\Debug\Robot.Properties.Resources.resources
+C:\Users\roset\OneDrive\Documents\LAST FUCKING TRIMESTER OF SCHOOL\ROBOTICS\Project\Submissions\G05_Source_SEM4405_2024\G05_C#_11Apr2024\Robot\obj\Debug\Robot.csproj.GenerateResource.cache
+C:\Users\roset\OneDrive\Documents\LAST FUCKING TRIMESTER OF SCHOOL\ROBOTICS\Project\Submissions\G05_Source_SEM4405_2024\G05_C#_11Apr2024\Robot\obj\Debug\Robot.csproj.CoreCompileInputs.cache
+C:\Users\roset\OneDrive\Documents\LAST FUCKING TRIMESTER OF SCHOOL\ROBOTICS\Project\Submissions\G05_Source_SEM4405_2024\G05_C#_11Apr2024\Robot\obj\Debug\Robot.csproj.CopyComplete
+C:\Users\roset\OneDrive\Documents\LAST FUCKING TRIMESTER OF SCHOOL\ROBOTICS\Project\Submissions\G05_Source_SEM4405_2024\G05_C#_11Apr2024\Robot\obj\Debug\Robot.exe
+C:\Users\roset\OneDrive\Documents\LAST FUCKING TRIMESTER OF SCHOOL\ROBOTICS\Project\Submissions\G05_Source_SEM4405_2024\G05_C#_11Apr2024\Robot\obj\Debug\Robot.pdb
+C:\Users\roset\OneDrive\Documents\LAST FUCKING TRIMESTER OF SCHOOL\ROBOTICS\Project\Submissions\G05_Source_11Apr2024\G05_C#_11Apr2024\Robot\bin\Debug\Robot.exe.config
+C:\Users\roset\OneDrive\Documents\LAST FUCKING TRIMESTER OF SCHOOL\ROBOTICS\Project\Submissions\G05_Source_11Apr2024\G05_C#_11Apr2024\Robot\bin\Debug\Robot.exe
+C:\Users\roset\OneDrive\Documents\LAST FUCKING TRIMESTER OF SCHOOL\ROBOTICS\Project\Submissions\G05_Source_11Apr2024\G05_C#_11Apr2024\Robot\bin\Debug\Robot.pdb
+C:\Users\roset\OneDrive\Documents\LAST FUCKING TRIMESTER OF SCHOOL\ROBOTICS\Project\Submissions\G05_Source_11Apr2024\G05_C#_11Apr2024\Robot\bin\Debug\AForge.Controls.dll
+C:\Users\roset\OneDrive\Documents\LAST FUCKING TRIMESTER OF SCHOOL\ROBOTICS\Project\Submissions\G05_Source_11Apr2024\G05_C#_11Apr2024\Robot\bin\Debug\AForge.dll
+C:\Users\roset\OneDrive\Documents\LAST FUCKING TRIMESTER OF SCHOOL\ROBOTICS\Project\Submissions\G05_Source_11Apr2024\G05_C#_11Apr2024\Robot\bin\Debug\AForge.Genetic.dll
+C:\Users\roset\OneDrive\Documents\LAST FUCKING TRIMESTER OF SCHOOL\ROBOTICS\Project\Submissions\G05_Source_11Apr2024\G05_C#_11Apr2024\Robot\bin\Debug\AForge.Imaging.dll
+C:\Users\roset\OneDrive\Documents\LAST FUCKING TRIMESTER OF SCHOOL\ROBOTICS\Project\Submissions\G05_Source_11Apr2024\G05_C#_11Apr2024\Robot\bin\Debug\AForge.Imaging.Formats.dll
+C:\Users\roset\OneDrive\Documents\LAST FUCKING TRIMESTER OF SCHOOL\ROBOTICS\Project\Submissions\G05_Source_11Apr2024\G05_C#_11Apr2024\Robot\bin\Debug\AForge.Math.dll
+C:\Users\roset\OneDrive\Documents\LAST FUCKING TRIMESTER OF SCHOOL\ROBOTICS\Project\Submissions\G05_Source_11Apr2024\G05_C#_11Apr2024\Robot\bin\Debug\AForge.Neuro.dll
+C:\Users\roset\OneDrive\Documents\LAST FUCKING TRIMESTER OF SCHOOL\ROBOTICS\Project\Submissions\G05_Source_11Apr2024\G05_C#_11Apr2024\Robot\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\roset\OneDrive\Documents\LAST FUCKING TRIMESTER OF SCHOOL\ROBOTICS\Project\Submissions\G05_Source_11Apr2024\G05_C#_11Apr2024\Robot\bin\Debug\AForge.Video.dll
+C:\Users\roset\OneDrive\Documents\LAST FUCKING TRIMESTER OF SCHOOL\ROBOTICS\Project\Submissions\G05_Source_11Apr2024\G05_C#_11Apr2024\Robot\bin\Debug\AForge.Vision.dll
+C:\Users\roset\OneDrive\Documents\LAST FUCKING TRIMESTER OF SCHOOL\ROBOTICS\Project\Submissions\G05_Source_11Apr2024\G05_C#_11Apr2024\Robot\bin\Debug\dshow.dll
+C:\Users\roset\OneDrive\Documents\LAST FUCKING TRIMESTER OF SCHOOL\ROBOTICS\Project\Submissions\G05_Source_11Apr2024\G05_C#_11Apr2024\Robot\bin\Debug\MatrixShow.dll
+C:\Users\roset\OneDrive\Documents\LAST FUCKING TRIMESTER OF SCHOOL\ROBOTICS\Project\Submissions\G05_Source_11Apr2024\G05_C#_11Apr2024\Robot\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\roset\OneDrive\Documents\LAST FUCKING TRIMESTER OF SCHOOL\ROBOTICS\Project\Submissions\G05_Source_11Apr2024\G05_C#_11Apr2024\Robot\bin\Debug\SignalStrengthMeter.dll
+C:\Users\roset\OneDrive\Documents\LAST FUCKING TRIMESTER OF SCHOOL\ROBOTICS\Project\Submissions\G05_Source_11Apr2024\G05_C#_11Apr2024\Robot\bin\Debug\Tiger.Video.VFW.dll
+C:\Users\roset\OneDrive\Documents\LAST FUCKING TRIMESTER OF SCHOOL\ROBOTICS\Project\Submissions\G05_Source_11Apr2024\G05_C#_11Apr2024\Robot\bin\Debug\AForge.xml
+C:\Users\roset\OneDrive\Documents\LAST FUCKING TRIMESTER OF SCHOOL\ROBOTICS\Project\Submissions\G05_Source_11Apr2024\G05_C#_11Apr2024\Robot\bin\Debug\AForge.Controls.xml
+C:\Users\roset\OneDrive\Documents\LAST FUCKING TRIMESTER OF SCHOOL\ROBOTICS\Project\Submissions\G05_Source_11Apr2024\G05_C#_11Apr2024\Robot\bin\Debug\AForge.Genetic.xml
+C:\Users\roset\OneDrive\Documents\LAST FUCKING TRIMESTER OF SCHOOL\ROBOTICS\Project\Submissions\G05_Source_11Apr2024\G05_C#_11Apr2024\Robot\bin\Debug\AForge.Imaging.xml
+C:\Users\roset\OneDrive\Documents\LAST FUCKING TRIMESTER OF SCHOOL\ROBOTICS\Project\Submissions\G05_Source_11Apr2024\G05_C#_11Apr2024\Robot\bin\Debug\AForge.Imaging.Formats.xml
+C:\Users\roset\OneDrive\Documents\LAST FUCKING TRIMESTER OF SCHOOL\ROBOTICS\Project\Submissions\G05_Source_11Apr2024\G05_C#_11Apr2024\Robot\bin\Debug\AForge.Math.xml
+C:\Users\roset\OneDrive\Documents\LAST FUCKING TRIMESTER OF SCHOOL\ROBOTICS\Project\Submissions\G05_Source_11Apr2024\G05_C#_11Apr2024\Robot\bin\Debug\AForge.Neuro.xml
+C:\Users\roset\OneDrive\Documents\LAST FUCKING TRIMESTER OF SCHOOL\ROBOTICS\Project\Submissions\G05_Source_11Apr2024\G05_C#_11Apr2024\Robot\bin\Debug\AForge.Video.xml
+C:\Users\roset\OneDrive\Documents\LAST FUCKING TRIMESTER OF SCHOOL\ROBOTICS\Project\Submissions\G05_Source_11Apr2024\G05_C#_11Apr2024\Robot\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\roset\OneDrive\Documents\LAST FUCKING TRIMESTER OF SCHOOL\ROBOTICS\Project\Submissions\G05_Source_11Apr2024\G05_C#_11Apr2024\Robot\bin\Debug\AForge.Vision.xml
+C:\Users\roset\OneDrive\Documents\LAST FUCKING TRIMESTER OF SCHOOL\ROBOTICS\Project\Submissions\G05_Source_11Apr2024\G05_C#_11Apr2024\Robot\obj\Debug\Robot.csproj.AssemblyReference.cache
+C:\Users\roset\OneDrive\Documents\LAST FUCKING TRIMESTER OF SCHOOL\ROBOTICS\Project\Submissions\G05_Source_11Apr2024\G05_C#_11Apr2024\Robot\obj\Debug\motion.CameraWindow.resources
+C:\Users\roset\OneDrive\Documents\LAST FUCKING TRIMESTER OF SCHOOL\ROBOTICS\Project\Submissions\G05_Source_11Apr2024\G05_C#_11Apr2024\Robot\obj\Debug\Robot.MainForm.resources
+C:\Users\roset\OneDrive\Documents\LAST FUCKING TRIMESTER OF SCHOOL\ROBOTICS\Project\Submissions\G05_Source_11Apr2024\G05_C#_11Apr2024\Robot\obj\Debug\Robot.Properties.Resources.resources
+C:\Users\roset\OneDrive\Documents\LAST FUCKING TRIMESTER OF SCHOOL\ROBOTICS\Project\Submissions\G05_Source_11Apr2024\G05_C#_11Apr2024\Robot\obj\Debug\Robot.csproj.GenerateResource.cache
+C:\Users\roset\OneDrive\Documents\LAST FUCKING TRIMESTER OF SCHOOL\ROBOTICS\Project\Submissions\G05_Source_11Apr2024\G05_C#_11Apr2024\Robot\obj\Debug\Robot.csproj.CoreCompileInputs.cache
+C:\Users\roset\OneDrive\Documents\LAST FUCKING TRIMESTER OF SCHOOL\ROBOTICS\Project\Submissions\G05_Source_11Apr2024\G05_C#_11Apr2024\Robot\obj\Debug\Robot.csproj.CopyComplete
+C:\Users\roset\OneDrive\Documents\LAST FUCKING TRIMESTER OF SCHOOL\ROBOTICS\Project\Submissions\G05_Source_11Apr2024\G05_C#_11Apr2024\Robot\obj\Debug\Robot.exe
+C:\Users\roset\OneDrive\Documents\LAST FUCKING TRIMESTER OF SCHOOL\ROBOTICS\Project\Submissions\G05_Source_11Apr2024\G05_C#_11Apr2024\Robot\obj\Debug\Robot.pdb
