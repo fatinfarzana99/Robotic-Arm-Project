@@ -1,0 +1,2 @@
+../Drivers/GUI/LCDConf_FlexColor.c:39:6:LCD_X_Config	1
+../Drivers/GUI/LCDConf_FlexColor.c:53:5:LCD_X_DisplayDriver	2

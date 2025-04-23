@@ -1,0 +1,14 @@
+../Drivers/GUI/LCD_ILI9225DS.c:87:6:LcdInit	5
+../Drivers/GUI/LCD_ILI9225DS.c:216:6:LCD_GetSize	1
+../Drivers/GUI/LCD_ILI9225DS.c:223:6:LCD_AddCallback	1
+../Drivers/GUI/LCD_ILI9225DS.c:229:6:LCD_Reset	1
+../Drivers/GUI/LCD_ILI9225DS.c:241:6:LCD_SetArea	5
+../Drivers/GUI/LCD_ILI9225DS.c:297:6:LCD_WriteData8	2
+../Drivers/GUI/LCD_ILI9225DS.c:319:6:LCD_WriteDataPixelIndex	6
+../Drivers/GUI/LCD_ILI9225DS.c:384:6:LCD_WriteSinglePixel	3
+../Drivers/GUI/LCD_ILI9225DS.c:421:6:LCD_WriteDataPixel	2
+../Drivers/GUI/LCD_ILI9225DS.c:444:13:lcd_SPI_TxCpltCallback	2
+../Drivers/GUI/LCD_ILI9225DS.c:462:13:lcd_WriteCmd	2
+../Drivers/GUI/LCD_ILI9225DS.c:484:13:lcd_WriteData16	2
+../Drivers/GUI/LCD_ILI9225DS.c:507:6:LCD_WriteReg	1
+../Drivers/GUI/LCD_ILI9225DS.c:514:13:lcd_SpiChangeDataSize	1
